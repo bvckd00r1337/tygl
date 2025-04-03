@@ -122,8 +122,8 @@ class LinktreeClicker:
         # Use HTTP proxy which has better compatibility with Playwright
         proxy_host = "proxy-eu.proxy-cheap.com"
         proxy_port = "5959"
-        proxy_user = "pcP4S5y1DZ-res-ro"
-        proxy_pass = "PC_7iPvqFyyPpeoenYjn"
+        proxy_user = "pcoixOWCpC-res-ro"
+        proxy_pass = "PC_4kgxjrBN7eROf0y9g"
         
         # Return in format that Playwright can use with Chromium
         return {
